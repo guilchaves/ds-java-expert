@@ -1,6 +1,6 @@
-package sectionEight.exercises;
+package section08.exercises;
 
-import sectionEight.entities.Rectangle;
+import section08.entities.Rectangle;
 
 import java.util.Locale;
 import java.util.Scanner;

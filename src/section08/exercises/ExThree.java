@@ -1,4 +1,4 @@
-package sectionEight.exercises;
+package section08.exercises;
 
 /*
 * Exercicio 3
@@ -9,7 +9,7 @@ package sectionEight.exercises;
 *
  */
 
-import sectionEight.entities.Student;
+import section08.entities.Student;
 
 import java.util.Locale;
 import java.util.Scanner;

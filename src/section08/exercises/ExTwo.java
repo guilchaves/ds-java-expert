@@ -1,4 +1,4 @@
-package sectionEight.exercises;
+package section08.exercises;
 
 /*
 * Exercício 2
@@ -8,7 +8,7 @@ package sectionEight.exercises;
 * novamente os dados do funcionário.
  */
 
-import sectionEight.entities.Employee;
+import section08.entities.Employee;
 
 import java.util.Locale;
 import java.util.Scanner;

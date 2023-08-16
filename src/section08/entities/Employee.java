@@ -1,4 +1,4 @@
-package sectionEight.entities;
+package section08.entities;
 
 public class Employee {
     private String name;

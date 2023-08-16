@@ -1,6 +1,6 @@
-package sectionEight.exercises;
+package section08.exercises;
 
-import sectionEight.entities.CurrencyConverter;
+import section08.entities.CurrencyConverter;
 
 import java.util.Locale;
 import java.util.Scanner;
