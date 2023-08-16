@@ -45,6 +45,8 @@ public class Main {
         System.out.print("Enter a withdraw value: ");
         double withdraw = sc.nextDouble();
         ac.withdraw(withdraw);
+
+        sc.close();
     }
 
     private static double checkDeposit(char answer, Scanner sc) {
@@ -58,5 +60,6 @@ public class Main {
         }
         return deposit;
     }
+
 }
 

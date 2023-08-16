@@ -24,6 +24,8 @@ public class ExStaticClass {
         double totalDollars = sc.nextDouble();
 
         System.out.printf("Amount to be paid in reais = %.2f", CurrencyConverter.dollarToReal(dollarPrice, totalDollars));
+
+        sc.close();
     }
 
 }

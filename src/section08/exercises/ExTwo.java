@@ -36,5 +36,7 @@ public class ExTwo {
         employee.increaseSalary(percentage);
 
         System.out.println("Updated data: " + employee.getName() + ", $ " + String.format("%.2f", employee.netSalary()));
+
+        sc.close();
     }
 }

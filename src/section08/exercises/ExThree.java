@@ -29,5 +29,6 @@ public class ExThree {
         System.out.printf("FINAL GRADE = %.2f%n", student.finalGrade());
         student.isApproved(student.finalGrade());
 
+        sc.close();
     }
 }

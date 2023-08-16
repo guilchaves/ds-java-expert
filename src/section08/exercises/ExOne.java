@@ -29,6 +29,8 @@ public class ExOne {
         System.out.printf("AREA = %.2f%n", rectangle.Area());
         System.out.printf("PERIMETER = %.2f%n", rectangle.Perimeter());
         System.out.printf("DIAGONAL = %.2f%n", rectangle.Diagonal());
+
+        sc.close();
     }
 
 }
