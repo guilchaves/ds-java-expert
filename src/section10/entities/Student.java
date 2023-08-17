@@ -5,8 +5,15 @@ public class Student {
     private double firstTerm;
     private double secondTerm;
 
+    private String email;
+
     public Student() {
         super();
+    }
+
+    public Student(String name, String email) {
+        this.name = name;
+        this.email = email;
     }
 
     public Student(String name, double firstTerm, double secondTerm) {
@@ -41,5 +48,9 @@ public class Student {
 
     public double average(){
         return (this.firstTerm + this.secondTerm) / 2.0;
+    }
+
+    public String getEmail(){
+        return email;
     }
 }
