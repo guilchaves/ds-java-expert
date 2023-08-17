@@ -5,6 +5,9 @@ public class Person {
     private int age;
     private double height;
 
+    public Person(){
+        super();
+    }
     public Person(String name, int age) {
         this.name = name;
         this.age = age;
