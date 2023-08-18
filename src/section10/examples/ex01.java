@@ -3,6 +3,10 @@ package section10.examples;
 import java.util.Locale;
 import java.util.Scanner;
 
+/**
+ * VECTOR - part I
+ *
+ */
 public class ex01 {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);

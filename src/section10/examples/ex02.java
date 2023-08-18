@@ -5,6 +5,9 @@ import section10.entities.Product;
 import java.util.Locale;
 import java.util.Scanner;
 
+/**
+ * VECTOR partII
+ */
 public class ex02 {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
