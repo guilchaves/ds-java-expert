@@ -8,6 +8,7 @@ import section13.exercises.fixacao.entities.Product;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.time.LocalDate;
 import java.util.*;
 
 /**
@@ -44,7 +45,7 @@ public class Main {
         int n = sc.nextInt();
 
 
-        for(int i = 1; i <= n; i++ ){
+        for (int i = 1; i <= n; i++) {
             sc.nextLine();
             System.out.println("Enter #" + i + " data:");
             System.out.print("Product name: ");
@@ -61,7 +62,6 @@ public class Main {
 
         System.out.println("\nORDER SUMMARY: ");
         System.out.println(order);
-
 
 
         sc.close();
