@@ -71,7 +71,6 @@ public class Ex02 {
 
         System.out.print("\nTOTAL TAXES: $" + String.format("%.2f", sumTaxes));
 
-
         sc.close();
     }
 }
