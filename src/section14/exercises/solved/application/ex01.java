@@ -22,7 +22,7 @@ import java.util.Scanner;
  * que foram digitados
  */
 
-public class main {
+public class ex01 {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
