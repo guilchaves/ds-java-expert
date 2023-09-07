@@ -16,7 +16,7 @@ Solidificar conceitos do Java e sua API básica. <br>
 - Tratamento de Excecoes;
 
 ###
-# Chess System Design
+# chess System Design
 ## About
 This project was developed during the [Complete Java](https://www.udemy.com/course/java-curso-completo/) course from professor Nelio Alves.<br>
 
