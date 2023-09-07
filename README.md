@@ -9,11 +9,11 @@ Solidificar conceitos do Java e sua API básica. <br>
 
 - Sintaxe básica Java;
 - Java API;
-- Programacao Orientada a Objetos:
-  - Construtores, this, sobrecarda, encapsulamento;
-  - Enumeracao, composicao;
-  - Heranca, polimorfismo;
-- Tratamento de Excecoes;
+- Programaçao Orientada a Objetos:
+  - Construtores, this, sobrecarga, encapsulamento;
+  - Enumeração, composição;
+  - Herança, polimorfismo;
+- Tratamento de Exceções;
 
 ###
 # chess System Design
