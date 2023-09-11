@@ -9,14 +9,14 @@ Solidificar conceitos do Java e sua API básica. <br>
 
 - Sintaxe básica Java;
 - Java API;
-- Programaçao Orientada a Objetos:
+- Programação Orientada a Objetos:
   - Construtores, this, sobrecarga, encapsulamento;
   - Enumeração, composição;
   - Herança, polimorfismo;
 - Tratamento de Exceções;
 
 ###
-# chess System Design
+# Chess System Design
 ## About
 This project was developed during the [Complete Java](https://www.udemy.com/course/java-curso-completo/) course from professor Nelio Alves.<br>
 
