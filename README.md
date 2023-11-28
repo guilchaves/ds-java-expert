@@ -1,6 +1,9 @@
 ## Curso Java COMPLETO 2023 POO + Projetos
+
 #
-Esse repositório contém exercícios e projetos desenvolvidos para o [curso de Java do prof. Nelio Alves](https://www.udemy.com/course/java-curso-completo/), da plataforma Udemy.
+
+Esse repositório contém exercícios e projetos desenvolvidos para
+o [curso de Java do prof. Nelio Alves](https://www.udemy.com/course/java-curso-completo/), da plataforma Udemy.
 
 O curso apresenta tópicos básicos de programação como:
 
@@ -28,6 +31,8 @@ Assim como ferramentas e frameworks para se trabalhar com Java:
 
 ###
 
-O repositório está organizado por pacotes que representam as diversas seções 
+O repositório está organizado por pacotes que representam as diversas seções
 do curso dentro do diretório src/. Cada pacote possui exercícios e projetos de cada respectiva seção.
+
+Os exercícios referentes ao JDBC necessitam do MySQL instalado, assim como o MySQL Connector Java.
 
