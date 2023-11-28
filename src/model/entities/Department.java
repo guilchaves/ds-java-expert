@@ -52,6 +52,6 @@ public class Department implements Serializable {
 
     @Override
     public String toString() {
-        return "Department| id: " + this.getId() + ", name: " + this.getName();
+        return "Department | id: " + this.getId() + ", name: " + this.getName();
     }
 }
