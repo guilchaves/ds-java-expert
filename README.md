@@ -39,5 +39,5 @@ Os exercícios referentes ao JDBC necessitam do MySQL instalado, assim como o My
 ### Projetos
 - [Jogo de xadrez](https://github.com/guilchaves/java-chess)</br>
 - [Java JDBC e DAO pattern](https://github.com/guilchaves/jdbc-demo)</br>
-- Web Services com Spring Boot e JPA/Hibernate</br>
+- [Web Services com Spring Boot e JPA/Hibernate](https://github.com/guilchaves/springboot-jpa)</br>
 - API Restful com Spring Boot e MongoDB</br>
