@@ -2,8 +2,10 @@ package br.com.chaves.course.services;
 
 import br.com.chaves.course.entities.User;
 import br.com.chaves.course.repositories.UserRepository;
+import br.com.chaves.course.services.exceptions.ResourceNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.web.client.ResourceAccessException;
 
 import java.util.List;
 import java.util.Optional;
@@ -17,20 +19,20 @@ public class UserService {
         return repository.findAll();
     }
 
-    public User findById(Long id){
-        Optional<User> obj =  repository.findById(id);
-        return obj.get();
+    public User findById(Long id) {
+        Optional<User> obj = repository.findById(id);
+        return obj.orElseThrow(() -> new ResourceNotFoundException(id));
     }
 
-    public User insert(User obj){
+    public User insert(User obj) {
         return repository.save(obj);
     }
 
-    public void delete(Long id){
+    public void delete(Long id) {
         repository.deleteById(id);
     }
 
-    public User update(Long id, User obj){
+    public User update(Long id, User obj) {
         User entity = repository.getReferenceById(id);
         updateData(entity, obj);
         return repository.save(entity);
