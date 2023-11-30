@@ -1,5 +1,5 @@
-# Curso JAVA COMPLETO 2023 POO
-## Web services com Spring Boot e JPA / Hibernate
+# Web services com Spring Boot e JPA / Hibernate
+## Curso JAVA COMPLETO 2023 POO
 
 Esse repositório contém o projeto de _microsserviços com Spring Boot e JPA / Hibernate_ 
 do curso
