@@ -1,5 +1,4 @@
-# Curso Java COMPLETO 2023 POO
-## JDBC Dao 
+# JDBC CRUD - Padrão Dao 
 
 Esse repositório contém o projeto de acesso a banco de dados utilizando JDBC e padrão de projeto DAO 
 do curso
