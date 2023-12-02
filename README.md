@@ -41,3 +41,7 @@ Os exercícios referentes ao JDBC necessitam do MySQL instalado, assim como o My
 ✅ [Java JDBC e DAO pattern](https://github.com/guilchaves/jdbc-demo)</br>
 ✅ [Web Services com Spring Boot e JPA/Hibernate](https://github.com/guilchaves/springboot-jpa)</br>
 ✅ [API Restful com Spring Boot e MongoDB](https://github.com/guilchaves/springboot-mongo-demo)</br>
+
+#
+_**STATUS**_: CONCLUÍDO.
+[CERTIFICADO](https://www.udemy.com/certificate/UC-5b8911f3-e6fd-4cec-99d3-fd29965eeec7/)
