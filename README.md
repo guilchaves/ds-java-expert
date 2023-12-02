@@ -37,7 +37,7 @@ do curso dentro do diretório src/. Cada pacote possui exercícios e projetos de
 Os exercícios referentes ao JDBC necessitam do MySQL instalado, assim como o MySQL Connector Java.
 
 ### Projetos
-✅ :white_check_mark: [Jogo de xadrez](https://github.com/guilchaves/java-chess)</br>
-✅ :white_check_mark: [Java JDBC e DAO pattern](https://github.com/guilchaves/jdbc-demo)</br>
-✅ :white_check_mark: [Web Services com Spring Boot e JPA/Hibernate](https://github.com/guilchaves/springboot-jpa)</br>
-✅ :white_check_mark: [API Restful com Spring Boot e MongoDB](https://github.com/guilchaves/springboot-mongo-demo)</br>
+✅ [Jogo de xadrez](https://github.com/guilchaves/java-chess)</br>
+✅ [Java JDBC e DAO pattern](https://github.com/guilchaves/jdbc-demo)</br>
+✅ [Web Services com Spring Boot e JPA/Hibernate](https://github.com/guilchaves/springboot-jpa)</br>
+✅ [API Restful com Spring Boot e MongoDB](https://github.com/guilchaves/springboot-mongo-demo)</br>
