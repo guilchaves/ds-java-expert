@@ -1,6 +1,7 @@
 package br.com.chaves.mongo.services;
 
 import br.com.chaves.mongo.domain.User;
+import br.com.chaves.mongo.dto.UserDTO;
 import br.com.chaves.mongo.repositories.UserRepository;
 import br.com.chaves.mongo.services.exceptions.ObjectNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -22,5 +23,13 @@ public class UserService {
     public User findById(String id) {
         Optional<User> obj = repo.findById(id);
         return obj.orElseThrow(() -> new ObjectNotFoundException("User not found"));
+    }
+
+    public User insert(User obj) {
+        return repo.insert(obj);
+    }
+
+    public User fromDTO(UserDTO objDto) {
+        return new User(objDto.getId(), objDto.getName(), objDto.getEmail());
     }
 }
