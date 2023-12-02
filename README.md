@@ -43,5 +43,5 @@ Os exercícios referentes ao JDBC necessitam do MySQL instalado, assim como o My
 ✅ [API Restful com Spring Boot e MongoDB](https://github.com/guilchaves/springboot-mongo-demo)</br>
 
 #
-_**STATUS**_: CONCLUÍDO.
+_**STATUS**_: CONCLUÍDO </br>
 [CERTIFICADO](https://www.udemy.com/certificate/UC-5b8911f3-e6fd-4cec-99d3-fd29965eeec7/)
