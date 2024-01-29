@@ -2,8 +2,7 @@
 
 #
 
-Esse repositório contém exercícios e projetos desenvolvidos nos treinamentos [Java e Programação Orientada a Objetos Expert](https://devsuperior.com.br/curso-java-e-programacao-orientada-a-objetos-expert), na plataforma DevSuperior, e  
-o [curso de Java](https://www.udemy.com/course/java-curso-completo/), da plataforma Udemy.
+Esse repositório contém exercícios e projetos desenvolvidos nos treinamentos [Java e Programação Orientada a Objetos Expert](https://devsuperior.com.br/curso-java-e-programacao-orientada-a-objetos-expert), na plataforma DevSuperior, e o [curso de Java](https://www.udemy.com/course/java-curso-completo/), da plataforma Udemy.
 
 O curso apresenta tópicos básicos de programação como:
 
@@ -37,10 +36,10 @@ do curso dentro do diretório src/. Cada pacote possui exercícios e projetos de
 Os exercícios referentes ao JDBC necessitam do MySQL instalado, assim como o MySQL Connector Java.
 
 ### Projetos
-✅ [Jogo de xadrez](https://github.com/guilchaves/java-chess)</br>
-✅ [Java JDBC e DAO pattern](https://github.com/guilchaves/jdbc-demo)</br>
-✅ [Web Services com Spring Boot e JPA/Hibernate](https://github.com/guilchaves/springboot-jpa)</br>
-✅ [API Restful com Spring Boot e MongoDB](https://github.com/guilchaves/springboot-mongo-demo)</br>
+✅ [Jogo de xadrez](https://github.com/guilchaves/ds-java-expert/tree/main/projects/java-chess)</br>
+✅ [Java JDBC e DAO pattern](https://github.com/guilchaves/ds-java-expert/tree/main/projects/jdbc-crud-demo)</br>
+✅ [Web Services com Spring Boot e JPA/Hibernate](https://github.com/guilchaves/ds-java-expert/tree/main/projects/springboot-jpa-demo)</br>
+✅ [API Restful com Spring Boot e MongoDB](https://github.com/guilchaves/ds-java-expert/tree/main/projects/springboot-mongo-demo)</br>
 
 #
 _**STATUS**_: CONCLUÍDO </br>
