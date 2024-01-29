@@ -1,6 +1,4 @@
-## Java e Programação Orientada a Objetos Expert
-
-#
+# Java e Programação Orientada a Objetos Expert
 
 Esse repositório contém exercícios e projetos desenvolvidos nos treinamentos [Java e Programação Orientada a Objetos Expert](https://devsuperior.com.br/curso-java-e-programacao-orientada-a-objetos-expert), na plataforma DevSuperior, e o [curso de Java](https://www.udemy.com/course/java-curso-completo/), da plataforma Udemy.
 
