@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/contribuintes.iml" filepath="$PROJECT_DIR$/contribuintes.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/empregados.iml" filepath="$PROJECT_DIR$/empregados.iml" />
+>>>>>>> empregados/main
+    </modules>
+  </component>
+</project>
